@@ -21,21 +21,21 @@ Copyright © [2024] [Gabriele Parietti]
 
 
 
-Libraries needed to compile the project.
+*Libraries needed to compile the project.*
 
-#include <WiFi.h>
+```#include <WiFi.h>```
 
-#include <HTTPClient.h>
+```#include <HTTPClient.h>```
 
-#include <ArduinoJson.h>
+```#include <ArduinoJson.h>```
 
-#include <MD_Word.h>
+```#include <MD_Word.h>```
 
-#include <MD_MAX72xx.h>
+```#include <MD_MAX72xx.h>```
 
-#include <SPI.h>
+```#include <SPI.h>```
 
-#include <ESPAsyncWebServer.h>
+```#include <ESPAsyncWebServer.h>```
 
-#include <AsyncTCP.h>
+```#include <AsyncTCP.h>```
 
