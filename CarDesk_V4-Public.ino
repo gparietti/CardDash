@@ -82,8 +82,8 @@ bool SetOroscopo, SetWeather, SetDate, SetJoke, SetNews, SetAlert = HIGH; //Vari
 #define IntDisplay 2 //Intensità display (0-15; attenzione alla corrente!)
 #define SpeedText 30 //Velocità scorrimento testo (Più grande è il valore inserito più lo scorrimento sarà lento).
 #define InfoDelay 5000 //Pausa tra ogni elemento mostrato (in millisecondi). 
-const char* ssid     = "Iphone di Gabriele";  //Inserire il Nome (SSID) della rete WiFi a cui si vuole collegare il dispositivo.
-const char* password = "deliddo27";  //Inserire la Password della rete WiFi a cui si vuole collegare il dispositivo.
+const char* ssid     = "INSERT_WiFi_NAME_HERE";  //Inserire il Nome (SSID) della rete WiFi a cui si vuole collegare il dispositivo.
+const char* password = "INSERT_WiFi_PASSWORD_HERE";  //Inserire la Password della rete WiFi a cui si vuole collegare il dispositivo.
 //FUNZIONA ANCHE CON HOTSPOT!!
 
 
