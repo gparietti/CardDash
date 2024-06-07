@@ -1,10 +1,6 @@
-Project Name: CarDash
-
-Author: Gabriele Parietti
-
 Version: V4.0
+![](https://github.com/CardDash/On_Cardash.gif)
 
-Date: 06/06/2024
 
  
 
